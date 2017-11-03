@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "485058651FACBA5400DD107B"
-               BuildableName = "Practica Navegacion.app"
-               BlueprintName = "Practica Navegacion"
-               ReferencedContainer = "container:Practica Navegacion.xcodeproj">
+               BlueprintIdentifier = "D70CD2411FAA9C3C0019A46A"
+               BuildableName = "Navegacion.app"
+               BlueprintName = "Navegacion"
+               ReferencedContainer = "container:Navegacion.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,14 +28,34 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D70CD25A1FAA9C3D0019A46A"
+               BuildableName = "NavegacionTests.xctest"
+               BlueprintName = "NavegacionTests"
+               ReferencedContainer = "container:Navegacion.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "D70CD2651FAA9C3D0019A46A"
+               BuildableName = "NavegacionUITests.xctest"
+               BlueprintName = "NavegacionUITests"
+               ReferencedContainer = "container:Navegacion.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "485058651FACBA5400DD107B"
-            BuildableName = "Practica Navegacion.app"
-            BlueprintName = "Practica Navegacion"
-            ReferencedContainer = "container:Practica Navegacion.xcodeproj">
+            BlueprintIdentifier = "D70CD2411FAA9C3C0019A46A"
+            BuildableName = "Navegacion.app"
+            BlueprintName = "Navegacion"
+            ReferencedContainer = "container:Navegacion.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +75,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "485058651FACBA5400DD107B"
-            BuildableName = "Practica Navegacion.app"
-            BlueprintName = "Practica Navegacion"
-            ReferencedContainer = "container:Practica Navegacion.xcodeproj">
+            BlueprintIdentifier = "D70CD2411FAA9C3C0019A46A"
+            BuildableName = "Navegacion.app"
+            BlueprintName = "Navegacion"
+            ReferencedContainer = "container:Navegacion.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +94,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "485058651FACBA5400DD107B"
-            BuildableName = "Practica Navegacion.app"
-            BlueprintName = "Practica Navegacion"
-            ReferencedContainer = "container:Practica Navegacion.xcodeproj">
+            BlueprintIdentifier = "D70CD2411FAA9C3C0019A46A"
+            BuildableName = "Navegacion.app"
+            BlueprintName = "Navegacion"
+            ReferencedContainer = "container:Navegacion.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
